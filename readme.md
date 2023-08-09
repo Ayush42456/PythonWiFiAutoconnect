@@ -3,10 +3,8 @@
 ## Table of Contents
 
 1. [Overview](#overview)
-4. [Installation and Usage](#installation--usage)
-5. [Customization](#customization)
-5. [Run script](#customization)
-6. [Contributors](#contributors)
+2. [Installation and Usage](#installation--usage)
+3. [Contributors](#contributors)
    
 
 ## Overview
